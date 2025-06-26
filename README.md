@@ -32,8 +32,3 @@ You can use these scripts to:
 - Validate current policy status
 - Review pending or rejected claims
 - Lookup member information
-
-> Use SQL parameters or bind variables wherever applicable to avoid injection vulnerabilities.
-
----
-
