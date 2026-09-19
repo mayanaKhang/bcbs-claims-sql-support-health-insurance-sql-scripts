@@ -1,5 +1,5 @@
 # -claims-sql-support-health-insurance-sql-scripts
-bcbs-claims-sql-support  health-insurance-Unix &amp; sql -scripts
+-claims-sql-support  health-insurance-Unix &amp; sql -scripts
 /
 ├── policy_queries/
 │   └── active_policies.sql
