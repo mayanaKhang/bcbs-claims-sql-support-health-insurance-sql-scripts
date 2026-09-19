@@ -1,4 +1,4 @@
-# bcbs-claims-sql-support-health-insurance-sql-scripts
+# -claims-sql-support-health-insurance-sql-scripts
 bcbs-claims-sql-support  health-insurance-Unix &amp; sql -scripts
 /
 ├── policy_queries/
@@ -13,7 +13,7 @@ bcbs-claims-sql-support  health-insurance-Unix &amp; sql -scripts
 
 # BCBS Policy & Health Insurance SQL Scripts
 
-This repository includes SQL scripts used in supporting the BCBS (Blue Cross Blue Shield) Policy & Claims Processing System. These are designed to assist application support engineers with troubleshooting and report generation.
+This repository includes SQL scripts used in supporting the  Policy & Claims Processing System. These are designed to assist application support engineers with troubleshooting and report generation.
 
 ## 📁 Directory Structure
 
